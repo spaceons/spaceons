@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spaceons
+- 👋 Hi, I’m @Paweł Pawlak
 - 👀 I’m interested in strenght training, healthy lifestyle and coaching.
 - 🌱 I’m currently learning Python (Im begginer)
 - ⚡ Fun fact: Meet me at HYROX events in Poland 🤨
